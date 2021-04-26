@@ -108,4 +108,8 @@ const styles = StyleSheet.create({
         justifyContent: "flex-end",
         // alignItems: "center",
     },
+    board: {
+        alignItems: "center",
+        backgroundColor: "#AAA",
+    },
 });
